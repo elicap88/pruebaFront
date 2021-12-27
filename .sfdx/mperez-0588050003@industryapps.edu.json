@@ -1,0 +1,11 @@
+{
+  "username": "mperez-0588050003@industryapps.edu",
+  "accessToken": "b5d8dfb40697e10e3801a5ab427b02c7bd98dc8f6686b766680abb63540d34cbf195ec236cda70590c4f323eb82319e03577af42dacdf2d5c29a6ee94a1f28a3a24a9f6ad5d56227e7c8bcce862ad6a9fca6a77bb3e1714dc9d0e5afa98f1f35192b585c5315fb513c92e60df6eba0a136ea738d1877:f9de9a68a43f0968092e1780b800ab7e",
+  "instanceUrl": "https://analytics-content-40336.my.salesforce.com",
+  "orgId": "00D5f000003HGY2EAO",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "ffa1f9fb1931058f1d6e411fa7a29c727993fc67d63502f2cfdc57900bd3e2bd5f1c109728d43a6dca15c852353928f026eb95d0d1ca4c67ed6cacae0422dda944cd7995913ef3419344aba73440bedf695ce9f327609d1d38d2c1fc4c:e72a18b3da25eb033f4e58a71884b4f7",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "12/3/2021, 12:53:33 PM"
+}

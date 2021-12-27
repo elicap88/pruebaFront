@@ -1,0 +1,6 @@
+cd Desktop/
+cd jetmanager/
+cd jetmanager-webadmin/
+npm install
+node -V
+node -v

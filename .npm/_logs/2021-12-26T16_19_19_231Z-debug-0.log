@@ -1,0 +1,220 @@
+0 verbose cli [
+0 verbose cli   '/usr/local/bin/node',
+0 verbose cli   '/usr/local/bin/npm',
+0 verbose cli   'install',
+0 verbose cli   '--ignore-scripts',
+0 verbose cli   '@types/abbrev@ts4.4',
+0 verbose cli   '@types/accepts@ts4.4',
+0 verbose cli   '@types/are-we-there-yet@ts4.4',
+0 verbose cli   '@types/argparse@ts4.4',
+0 verbose cli   '@types/async@ts4.4',
+0 verbose cli   '@types/atob@ts4.4',
+0 verbose cli   '@types/balanced-match@ts4.4',
+0 verbose cli   '@types/base64id@ts4.4',
+0 verbose cli   '@types/big.js@ts4.4',
+0 verbose cli   '@types/bl@ts4.4',
+0 verbose cli   '@types/body-parser@ts4.4',
+0 verbose cli   '@types/bonjour@ts4.4',
+0 verbose cli   '@types/boolbase@ts4.4',
+0 verbose cli   '@types/brace-expansion@ts4.4',
+0 verbose cli   '@types/braces@ts4.4',
+0 verbose cli   '@types/buffer-from@ts4.4',
+0 verbose cli   '@types/bytes@ts4.4',
+0 verbose cli   '@types/cacache@ts4.4',
+0 verbose cli   '@types/call-bind@ts4.4',
+0 verbose cli   '@types/caniuse-lite@ts4.4',
+0 verbose cli   '@types/chardet@ts4.4',
+0 verbose cli   '@types/chownr@ts4.4',
+0 verbose cli   '@types/circular-dependency-plugin@ts4.4',
+0 verbose cli   '@types/cli-spinners@ts4.4',
+0 verbose cli   '@types/clone@ts4.4',
+0 verbose cli   '@types/clone-deep@ts4.4',
+0 verbose cli   '@types/color-convert@ts4.4',
+0 verbose cli   '@types/color-name@ts4.4',
+0 verbose cli   '@types/color-support@ts4.4',
+0 verbose cli   '@types/commondir@ts4.4',
+0 verbose cli   '@types/component-emitter@ts4.4',
+0 verbose cli   '@types/compressible@ts4.4',
+0 verbose cli   '@types/compression@ts4.4',
+0 verbose cli   '@types/concat-map@ts4.4',
+0 verbose cli   '@types/connect@ts4.4',
+0 verbose cli   '@types/connect-history-api-fallback@ts4.4',
+0 verbose cli   '@types/content-disposition@ts4.4',
+0 verbose cli   '@types/content-type@ts4.4',
+0 verbose cli   '@types/convert-source-map@ts4.4',
+0 verbose cli   '@types/cookie@ts4.4',
+0 verbose cli   '@types/cookie-signature@ts4.4',
+0 verbose cli   '@types/cors@ts4.4',
+0 verbose cli   '@types/cross-spawn@ts4.4',
+0 verbose cli   '@types/css@ts4.4',
+0 verbose cli   '@types/cssesc@ts4.4',
+0 verbose cli   '@types/debug@ts4.4',
+0 verbose cli   '@types/decode-uri-component@ts4.4',
+0 verbose cli   '@types/deep-equal@ts4.4',
+0 verbose cli   '@types/default-gateway@ts4.4',
+0 verbose cli   '@types/defaults@ts4.4',
+0 verbose cli   '@types/define-properties@ts4.4',
+0 verbose cli   '@types/delegates@ts4.4',
+0 verbose cli   '@types/depd@ts4.4',
+0 verbose cli   '@types/destroy@ts4.4',
+0 verbose cli   '@types/detect-node@ts4.4',
+0 verbose cli   '@types/di@ts4.4',
+0 verbose cli   '@types/dir-glob@ts4.4',
+0 verbose cli   '@types/dns-packet@ts4.4',
+0 verbose cli   '@types/ee-first@ts4.4',
+0 verbose cli   '@types/encodeurl@ts4.4',
+0 verbose cli   '@types/ent@ts4.4',
+0 verbose cli   '@types/escape-html@ts4.4',
+0 verbose cli   '@types/eslint-scope@ts4.4',
+0 verbose cli   '@types/esprima@ts4.4',
+0 verbose cli   '@types/estraverse@ts4.4',
+0 verbose cli   '@types/esutils@ts4.4',
+0 verbose cli   '@types/etag@ts4.4',
+0 verbose cli   '@types/events@ts4.4',
+0 verbose cli   '@types/express@ts4.4',
+0 verbose cli   '@types/extend@ts4.4',
+0 verbose cli   '@types/fill-range@ts4.4',
+0 verbose cli   '@types/finalhandler@ts4.4',
+0 verbose cli   '@types/find-cache-dir@ts4.4',
+0 verbose cli   '@types/follow-redirects@ts4.4',
+0 verbose cli   '@types/forwarded@ts4.4',
+0 verbose cli   '@types/fresh@ts4.4',
+0 verbose cli   '@types/fs-extra@ts4.4',
+0 verbose cli   '@types/function-bind@ts4.4',
+0 verbose cli   '@types/get-intrinsic@ts4.4',
+0 verbose cli   '@types/glob@ts4.4',
+0 verbose cli   '@types/glob-parent@ts4.4',
+0 verbose cli   '@types/glob-to-regexp@ts4.4',
+0 verbose cli   '@types/graceful-fs@ts4.4',
+0 verbose cli   '@types/has@ts4.4',
+0 verbose cli   '@types/has-symbols@ts4.4',
+0 verbose cli   '@types/hosted-git-info@ts4.4',
+0 verbose cli   '@types/html-escaper@ts4.4',
+0 verbose cli   '@types/http-cache-semantics@ts4.4',
+0 verbose cli   '@types/http-errors@ts4.4',
+0 verbose cli   '@types/http-proxy@ts4.4',
+0 verbose cli   '@types/humanize-ms@ts4.4',
+0 verbose cli   '@types/icss-utils@ts4.4',
+0 verbose cli   '@types/ignore-walk@ts4.4',
+0 verbose cli   '@types/imurmurhash@ts4.4',
+0 verbose cli   '@types/ini@ts4.4',
+0 verbose cli   '@types/inquirer@ts4.4',
+0 verbose cli   ... 85 more items
+0 verbose cli ]
+1 info using npm@8.3.0
+2 info using node@v16.13.1
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/admin/Library/Caches/typescript/4.4/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:/Users/admin/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 4ms
+14 timing config:load:global Completed in 4ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 5ms
+17 timing config:load:setEnvs Completed in 4ms
+18 timing config:load Completed in 24ms
+19 timing npm:load:configload Completed in 25ms
+20 timing npm:load:setTitle Completed in 37ms
+21 timing config:load:flatten Completed in 5ms
+22 timing npm:load:display Completed in 7ms
+23 verbose logfile /Users/admin/.npm/_logs/2021-12-26T16_19_19_231Z-debug-0.log
+24 timing npm:load:logFile Completed in 10ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 79ms
+28 timing arborist:ctor Completed in 1ms
+29 silly logfile start cleaning logs, removing 1 files
+30 timing idealTree:init Completed in 239ms
+31 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+32 http fetch GET 200 https://registry.npmjs.org/@types%2fconnect 1239ms (cache hit)
+33 http fetch GET 200 https://registry.npmjs.org/@types%2fbody-parser 1256ms (cache hit)
+34 http fetch GET 200 https://registry.npmjs.org/@types%2fdns-packet 1164ms (cache hit)
+35 http fetch GET 200 https://registry.npmjs.org/@types%2fexpress 1153ms (cache hit)
+36 http fetch GET 200 https://registry.npmjs.org/@types%2fmime 1101ms (cache hit)
+37 http fetch GET 200 https://registry.npmjs.org/@types%2flodash 1112ms (cache hit)
+38 http fetch GET 200 https://registry.npmjs.org/@types%2fqs 910ms (cache hit)
+39 http fetch GET 200 https://registry.npmjs.org/@types%2fserve-static 909ms (cache hit)
+40 http fetch GET 200 https://registry.npmjs.org/@types%2faccepts 1608ms (cache miss)
+41 http fetch GET 200 https://registry.npmjs.org/@types%2fasync 1608ms (cache miss)
+42 http fetch GET 200 https://registry.npmjs.org/@types%2fbuffer-from 1605ms (cache miss)
+43 http fetch GET 200 https://registry.npmjs.org/@types%2fbonjour 1608ms (cache miss)
+44 http fetch GET 200 https://registry.npmjs.org/@types%2fbalanced-match 1611ms (cache miss)
+45 http fetch GET 200 https://registry.npmjs.org/@types%2fbraces 1610ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/@types%2fatob 1613ms (cache miss)
+47 http fetch GET 200 https://registry.npmjs.org/@types%2fabbrev 1617ms (cache miss)
+48 http fetch GET 200 https://registry.npmjs.org/@types%2fboolbase 1613ms (cache miss)
+49 http fetch GET 200 https://registry.npmjs.org/@types%2fbrace-expansion 1614ms (cache miss)
+50 http fetch GET 200 https://registry.npmjs.org/@types%2fbytes 1614ms (cache miss)
+51 http fetch GET 200 https://registry.npmjs.org/@types%2fchardet 1614ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/@types%2fclone-deep 1621ms (cache miss)
+53 http fetch GET 200 https://registry.npmjs.org/@types%2fcolor-support 1702ms (cache miss)
+54 http fetch GET 200 https://registry.npmjs.org/@types%2fcommondir 1778ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/@types%2fcomponent-emitter 1862ms (cache miss)
+56 http fetch GET 200 https://registry.npmjs.org/@types%2fcolor-name 2188ms (cache miss)
+57 http fetch GET 200 https://registry.npmjs.org/@types%2fbl 2199ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/@types%2fargparse 2202ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/@types%2fbase64id 2202ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/@types%2fbig.js 2594ms (cache miss)
+61 http fetch GET 200 https://registry.npmjs.org/@types%2fare-we-there-yet 2598ms (cache miss)
+62 http fetch GET 200 https://registry.npmjs.org/@types%2fconcat-map 2596ms (cache miss)
+63 http fetch GET 200 https://registry.npmjs.org/@types%2fconnect-history-api-fallback 2596ms (cache miss)
+64 http fetch GET 200 https://registry.npmjs.org/@types%2fcors 2592ms (cache miss)
+65 http fetch GET 200 https://registry.npmjs.org/@types%2fcall-bind 2610ms (cache miss)
+66 http fetch GET 200 https://registry.npmjs.org/@types%2fdepd 2539ms (cache miss)
+67 http fetch GET 200 https://registry.npmjs.org/@types%2fcacache 2612ms (cache miss)
+68 http fetch GET 200 https://registry.npmjs.org/@types%2fclone 2609ms (cache miss)
+69 http fetch GET 200 https://registry.npmjs.org/@types%2fcircular-dependency-plugin 2612ms (cache miss)
+70 timing idealTree Completed in 2870ms
+71 timing command:install Completed in 2967ms
+72 verbose type system
+73 verbose stack FetchError: Invalid response body while trying to fetch https://registry.npmjs.org/@types%2fcircular-dependency-plugin: EACCES: permission denied, mkdir '/Users/admin/.npm/_cacache/index-v5/7e/16'
+73 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/minipass-fetch/lib/body.js:162:15
+73 verbose stack     at async Arborist.[retrieveSpecName] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:533:18)
+73 verbose stack     at async /usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:504:20
+73 verbose stack     at async Promise.all (index 22)
+73 verbose stack     at async Arborist.[applyUserRequestsToNode] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:472:7)
+73 verbose stack     at async Arborist.[applyUserRequests] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:409:7)
+73 verbose stack     at async Arborist.buildIdealTree (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:215:7)
+73 verbose stack     at async Promise.all (index 1)
+73 verbose stack     at async Arborist.reify (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:149:5)
+73 verbose stack     at async Install.exec (/usr/local/lib/node_modules/npm/lib/commands/install.js:157:5)
+74 verbose cwd /Users/admin/Library/Caches/typescript/4.4
+75 verbose Darwin 19.6.0
+76 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "--ignore-scripts" "@types/abbrev@ts4.4" "@types/accepts@ts4.4" "@types/are-we-there-yet@ts4.4" "@types/argparse@ts4.4" "@types/async@ts4.4" "@types/atob@ts4.4" "@types/balanced-match@ts4.4" "@types/base64id@ts4.4" "@types/big.js@ts4.4" "@types/bl@ts4.4" "@types/body-parser@ts4.4" "@types/bonjour@ts4.4" "@types/boolbase@ts4.4" "@types/brace-expansion@ts4.4" "@types/braces@ts4.4" "@types/buffer-from@ts4.4" "@types/bytes@ts4.4" "@types/cacache@ts4.4" "@types/call-bind@ts4.4" "@types/caniuse-lite@ts4.4" "@types/chardet@ts4.4" "@types/chownr@ts4.4" "@types/circular-dependency-plugin@ts4.4" "@types/cli-spinners@ts4.4" "@types/clone@ts4.4" "@types/clone-deep@ts4.4" "@types/color-convert@ts4.4" "@types/color-name@ts4.4" "@types/color-support@ts4.4" "@types/commondir@ts4.4" "@types/component-emitter@ts4.4" "@types/compressible@ts4.4" "@types/compression@ts4.4" "@types/concat-map@ts4.4" "@types/connect@ts4.4" "@types/connect-history-api-fallback@ts4.4" "@types/content-disposition@ts4.4" "@types/content-type@ts4.4" "@types/convert-source-map@ts4.4" "@types/cookie@ts4.4" "@types/cookie-signature@ts4.4" "@types/cors@ts4.4" "@types/cross-spawn@ts4.4" "@types/css@ts4.4" "@types/cssesc@ts4.4" "@types/debug@ts4.4" "@types/decode-uri-component@ts4.4" "@types/deep-equal@ts4.4" "@types/default-gateway@ts4.4" "@types/defaults@ts4.4" "@types/define-properties@ts4.4" "@types/delegates@ts4.4" "@types/depd@ts4.4" "@types/destroy@ts4.4" "@types/detect-node@ts4.4" "@types/di@ts4.4" "@types/dir-glob@ts4.4" "@types/dns-packet@ts4.4" "@types/ee-first@ts4.4" "@types/encodeurl@ts4.4" "@types/ent@ts4.4" "@types/escape-html@ts4.4" "@types/eslint-scope@ts4.4" "@types/esprima@ts4.4" "@types/estraverse@ts4.4" "@types/esutils@ts4.4" "@types/etag@ts4.4" "@types/events@ts4.4" "@types/express@ts4.4" "@types/extend@ts4.4" "@types/fill-range@ts4.4" "@types/finalhandler@ts4.4" "@types/find-cache-dir@ts4.4" "@types/follow-redirects@ts4.4" "@types/forwarded@ts4.4" "@types/fresh@ts4.4" "@types/fs-extra@ts4.4" "@types/function-bind@ts4.4" "@types/get-intrinsic@ts4.4" "@types/glob@ts4.4" "@types/glob-parent@ts4.4" "@types/glob-to-regexp@ts4.4" "@types/graceful-fs@ts4.4" "@types/has@ts4.4" "@types/has-symbols@ts4.4" "@types/hosted-git-info@ts4.4" "@types/html-escaper@ts4.4" "@types/http-cache-semantics@ts4.4" "@types/http-errors@ts4.4" "@types/http-proxy@ts4.4" "@types/humanize-ms@ts4.4" "@types/icss-utils@ts4.4" "@types/ignore-walk@ts4.4" "@types/imurmurhash@ts4.4" "@types/ini@ts4.4" "@types/inquirer@ts4.4" "@types/is-arguments@ts4.4" "@types/is-core-module@ts4.4" "@types/is-date-object@ts4.4" "@types/is-glob@ts4.4" "@types/is-regex@ts4.4" "@types/istanbul-lib-coverage@ts4.4" "@types/istanbul-lib-instrument@ts4.4" "@types/istanbul-lib-report@ts4.4" "@types/istanbul-lib-source-maps@ts4.4" "@types/istanbul-reports@ts4.4" "@types/js-yaml@ts4.4" "@types/kind-of@ts4.4" "@types/less@ts4.4" "@types/loader-runner@ts4.4" "@types/loader-utils@ts4.4" "@types/lodash@ts4.4" "@types/lru-cache@ts4.4" "@types/make-fetch-happen@ts4.4" "@types/merge2@ts4.4" "@types/micromatch@ts4.4" "@types/mime@ts4.4" "@types/mime-db@ts4.4" "@types/mime-types@ts4.4" "@types/mini-css-extract-plugin@ts4.4" "@types/minimist@ts4.4" "@types/minipass@ts4.4" "@types/minizlib@ts4.4" "@types/mkdirp@ts4.4" "@types/node-forge@ts4.4" "@types/nopt@ts4.4" "@types/npm-package-arg@ts4.4" "@types/npm-packlist@ts4.4" "@types/npm-registry-fetch@ts4.4" "@types/npmlog@ts4.4" "@types/pacote@ts4.4" "@types/pako@ts4.4" "@types/parse-json@ts4.4" "@types/parse5@ts4.4" "@types/parse5-html-rewriting-stream@ts4.4" "@types/parse5-htmlparser2-tree-adapter@ts4.4" "@types/parse5-sax-parser@ts4.4" "@types/path-parse@ts4.4" "@types/picomatch@ts4.4" "@types/postcss-import@ts4.4" "@types/postcss-modules-extract-imports@ts4.4" "@types/postcss-modules-local-by-default@ts4.4" "@types/postcss-modules-scope@ts4.4" "@types/postcss-modules-values@ts4.4" "@types/promise-retry@ts4.4" "@types/proxy-addr@ts4.4" "@types/qs@ts4.4" "@types/readable-stream@ts4.4" "@types/regenerate@ts4.4" "@types/regenerator-runtime@ts4.4" "@types/resolve@ts4.4" "@types/rimraf@ts4.4" "@types/run-parallel@ts4.4" "@types/sass@ts4.4" "@types/sass-loader@ts4.4" "@types/semver@ts4.4" "@types/send@ts4.4" "@types/serialize-javascript@ts4.4" "@types/serve-static@ts4.4" "@types/shebang-command@ts4.4" "@types/signal-exit@ts4.4" "@types/sockjs@ts4.4" "@types/source-map-support@ts4.4" "@types/spdy@ts4.4" "@types/sprintf@ts4.4" "@types/ssri@ts4.4" "@types/stylus@ts4.4" "@types/tar@ts4.4" "@types/ua-parser-js@ts4.4" "@types/uuid@ts4.4" "@types/watchpack@ts4.4" "@types/webpack-dev-middleware@ts4.4" "@types/webpack-dev-server@ts4.4" "@types/webpack-sources@ts4.4" "@types/wrap-ansi@ts4.4" "@types/ws@ts4.4" "@types/yallist@ts4.4" "@types/yargs@ts4.4" "@types/yargs-parser@ts4.4" "--save-dev" "--user-agent=typesInstaller/4.4.3"
+77 verbose node v16.13.1
+78 verbose npm  v8.3.0
+79 error code EACCES
+80 error syscall mkdir
+81 error path /Users/admin/.npm/_cacache/index-v5/7e/16
+82 error errno EACCES
+83 verbose FetchError: Invalid response body while trying to fetch https://registry.npmjs.org/@types%2fcircular-dependency-plugin: EACCES: permission denied, mkdir '/Users/admin/.npm/_cacache/index-v5/7e/16'
+    at /usr/local/lib/node_modules/npm/node_modules/minipass-fetch/lib/body.js:162:15
+    at async Arborist.[retrieveSpecName] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:533:18)
+    at async /usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:504:20
+    at async Promise.all (index 22)
+    at async Arborist.[applyUserRequestsToNode] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:472:7)
+    at async Arborist.[applyUserRequests] (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:409:7)
+    at async Arborist.buildIdealTree (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:215:7)
+    at async Promise.all (index 1)
+    at async Arborist.reify (/usr/local/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:149:5)
+    at async Install.exec (/usr/local/lib/node_modules/npm/lib/commands/install.js:157:5)
+84 error
+84 error Your cache folder contains root-owned files, due to a bug in
+84 error previous versions of npm which has since been addressed.
+84 error
+84 error To permanently fix this problem, please run:
+84 error   sudo chown -R 501:20 "/Users/admin/.npm"
+85 verbose exit 1
+86 timing npm Completed in 4427ms
+87 verbose unfinished npm timer reify 1640535560686
+88 verbose unfinished npm timer reify:loadTrees 1640535560777
+89 verbose unfinished npm timer idealTree:userRequests 1640535561026
+90 verbose code 1
+91 error A complete log of this run can be found in:
+91 error     /Users/admin/.npm/_logs/2021-12-26T16_19_19_231Z-debug-0.log

@@ -1,0 +1,11 @@
+{
+  "username": "mperez@labsxd.com.sura.devsv",
+  "accessToken": "4b7c9e426cfa4e96f00a91393f2d900fce03dc42b485fe494597945c860fd5a70ba42ef7a8610ab81dca3c9a8d5aff27adc73e7b9c25ea614c4648012b68074d7fcee885cba95ead041efe23850791650ab9d691a4853e4f5127cd516e9bcb1ba3f8e59f08400eefbba01a5487a266b1629952a02865:45adbee5bb4a4cccf6d214019d95b0e1",
+  "instanceUrl": "https://suramericanasa3--devsv.my.salesforce.com",
+  "orgId": "00DP0000003x2OGMAY",
+  "loginUrl": "https://suramericanasa3--devsv.my.salesforce.com/",
+  "refreshToken": "ef6b08a55d9b1d52470864569a87082e699f4d0bde19d64eae696e61ef8b1ca79dba78673e2a7a46aeade2226bfd713217c5ed2eefe24f5b571c54ae81286f322671f76fd67b780b78c4cc4fdeafed860e844acfbb7c470d1759e4565a:abe77d702dd3e9daaed75729e084ec74",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "12/20/2021, 12:58:41 PM"
+}

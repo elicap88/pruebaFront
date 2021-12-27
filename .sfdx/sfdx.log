@@ -1,0 +1,92 @@
+{"name":"sfdx","hostname":"localhost","pid":1909,"log":"SfdxProjectJson","level":40,"msg":"SchemaValidationWarning","time":"2021-11-02T13:15:36.699Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":676,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-02T14:49:00.107Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":830,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-02T14:59:09.187Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":837,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-02T14:59:09.447Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1391,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-02T19:05:31.042Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1616,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-02T19:26:21.859Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1638,"tag":"resolveLoginUrl","log":"Common","level":40,"msg":"Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com","time":"2021-11-02T19:28:35.824Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1638,"log":"Login","level":50,"msg":"[\n  'ERROR running auth:web:login: ',\n  'Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com'\n]","time":"2021-11-02T19:28:35.830Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1653,"tag":"resolveLoginUrl","log":"Common","level":40,"msg":"Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com","time":"2021-11-02T19:28:59.112Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1653,"log":"Login","level":50,"msg":"[\n  'ERROR running auth:web:login: ',\n  'Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com'\n]","time":"2021-11-02T19:28:59.119Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1082,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-03T13:36:56.023Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1210,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-03T13:44:16.413Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.447Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.450Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.452Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.455Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.456Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.459Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1012,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:44:35.460Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1473,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-03T13:50:59.473Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.450Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.590Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.591Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.592Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.593Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.594Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1332,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-03T13:52:24.594Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11982,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-04T18:37:54.086Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":10964,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:27:18.207Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":10964,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:27:18.210Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":10964,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:27:18.214Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":10964,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:27:18.215Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11070,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:28:43.458Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11070,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:28:43.459Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11070,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:28:43.460Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11070,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T12:28:43.461Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11136,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-08T12:29:11.165Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12243,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-08T15:13:44.234Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12285,"tag":"resolveLoginUrl","log":"Common","level":40,"msg":"Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com","time":"2021-11-08T15:15:14.549Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12285,"log":"Login","level":50,"msg":"[\n  'ERROR running auth:web:login: ',\n  'Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com'\n]","time":"2021-11-08T15:15:14.580Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12286,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-08T15:15:17.698Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12407,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-08T15:19:01.355Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12550,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-08T15:24:40.042Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.283Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.286Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.291Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.314Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.336Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.338Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":12175,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-08T15:25:47.339Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15356,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-09T15:00:15.523Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15356,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-09T15:00:15.524Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15356,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-09T15:00:15.525Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15356,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-09T15:00:15.525Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15428,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-09T15:00:47.839Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":15631,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-09T15:30:09.528Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":21788,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-11T15:18:12.825Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":21788,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-11T15:18:12.831Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":21788,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-11T15:18:12.833Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":21788,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-11-11T15:18:12.833Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":21874,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-11T15:18:44.382Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":68482,"tag":"resolveLoginUrl","log":"Common","level":40,"msg":"Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com","time":"2021-11-18T12:55:40.053Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":68482,"log":"Login","level":50,"msg":"[\n  'ERROR running auth:web:login: ',\n  'Invalid instance URL. Specify a Salesforce instance URL using the format <domainname>.salesforce.com'\n]","time":"2021-11-18T12:55:40.064Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":68632,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-11-18T13:01:41.707Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":89510,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-03T16:53:46.592Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":521,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:37.352Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":521,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:37.368Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":521,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:37.378Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":521,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:37.379Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":525,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:59.028Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":525,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:59.030Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":525,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:59.031Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":525,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-07T11:33:59.046Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":720,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-07T11:34:22.286Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":758,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-07T11:34:45.533Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":64360,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-10T14:50:02.438Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":64432,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-10T14:57:29.390Z","v":0}
+{"name":"sfdx","hostname":"ElianaArconsAir","pid":64461,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-10T14:59:41.034Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":521,"log":"connection","level":40,"msg":"[\n  'Failed to set the latest API version:',\n  {\n    errno: -60,\n    code: 'ETIMEDOUT',\n    syscall: 'connect',\n    address: '13.110.3.155',\n    port: 443\n  }\n]","time":"2021-12-10T15:01:52.080Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":1601,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-14T13:42:54.930Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11729,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-15T19:17:38.090Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11729,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-15T19:17:38.093Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11729,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-15T19:17:38.099Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11729,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-15T19:17:38.169Z","v":0}
+{"name":"sfdx","hostname":"localhost","pid":11811,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-12-15T19:18:58.502Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67617,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T17:58:04.864Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67617,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T17:58:04.865Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67617,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T17:58:04.866Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67617,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T17:58:04.936Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67618,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T18:01:31.902Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67618,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T18:01:31.903Z","v":0}
+{"name":"sfdx","hostname":"ElianaAlarcons-MacBook-Air.local","pid":67618,"level":60,"code":"ERR_INVALID_ARG_TYPE","msg":"","time":"2021-12-20T18:01:31.904Z","v":0}

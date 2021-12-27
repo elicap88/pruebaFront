@@ -1,0 +1,11 @@
+{
+  "username": "peliana@labsxd.com.andinaart.dev",
+  "accessToken": "fc1464639d714d6ab759735eb557c5b39fae04dae4cd1af6ce3d52e5db981009fc6507f50b9979d02e29d5053052bec9a04d8b5c97393e892e4d1238fc48695bf34c3754a065e6221ec63cb5d8cd68a318f12ab22e7c7aef6c82f3b8bdd1274bc8559d60748491d9f34ff192a1460b36f783cfef2c91:4618a8d47260d18b8c5a9e8423b8a27d",
+  "instanceUrl": "https://andinaart--dev.my.salesforce.com",
+  "orgId": "00D1F000000ZyvDUAS",
+  "loginUrl": "https://andinaart--dev.my.salesforce.com/",
+  "refreshToken": "a2747ab45ba28ea5b257b4b1c8a9959fa8dd696d009709ffb0f5163397340fc2b3371d5ae60950315a703bb295241fe1629629be58b64edbe64c21b7005912666a377bb765134e446273f721a0db5fb7a06741eb1ce1bb682623464193:df7358fd63196bc9d8ee9d8cad9f53d9",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "12/7/2021, 7:35:17 AM"
+}

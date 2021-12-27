@@ -1,0 +1,34 @@
+cd Desktop/
+ls
+cd jetmanager/
+git clone https://epinac@bitbucket.org/gpnauticals/jetmanager-webadmin.git
+cd jetmanager-webadmin/
+npm install
+npm i node-sass
+npm -v
+npm uninstall --save-dev gulp-sass
+sudo npm install --save-dev  --unsafe-perm node-sass
+npm install node-sass
+node -V
+node -v
+npm install node-sass@4.12.0
+node -V
+node -v
+npm install node-sass@latest
+npm rebuild node-sass --force 
+npm start
+npm install 
+npm install
+npm i -D sass
+npm i
+npm i
+npm i node-sass@6.0.1
+npm install -g npm@6.7.0
+sudo npm install -g npm@6.7.0
+npm install 
+npm -v
+ls
+npm install 
+npm cache clean -f"
+c
+

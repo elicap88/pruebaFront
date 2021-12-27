@@ -1,0 +1,60 @@
+cd Desktop
+ls
+cd jetmanager/
+git clone https://epinac@bitbucket.org/gpnauticals/jetmanager-webadmin.git
+ls
+cd jetmanager-webadmin/
+npm install
+npm start
+npm install --save-dev @angular-devkit/build-angul
+npm start
+npm uninstall @angular-devkit/build-angular
+npm start
+ng update @angular/cli @angular/core --allow-dirty --force
+ng serve --open
+ng update @angular/cli @angular/core --allow-dirty --force
+ng --version
+npm uninstall -g @angular/cli
+npm uninstall  @angular/cli
+npm uninstall -g @angular/cli
+node -v
+npm i -g @angular/cli
+cd ..
+
+npm i -g @angular/cli
+sudo npm uninstall -g @angular/cli
+ng --version
+ng --v
+ng --version
+sudo npm uninstall -g @angular/cli
+ng --version
+cls
+node --version
+cls
+npm cache clean --force
+cls
+sudo npm i -g @angular/cli
+ng --version
+cd jetmanager/
+cd jetmanager-webadmin/
+npm start
+npm i --save-dev @angular-devkit/build-angular@latest
+npm start
+npm install @angular-devkit/build-angular
+npm i
+npm start
+npm install --save-dev @angular-devkit/build-angular
+sudo npm install -g --unsafe-perm node-sass 
+npm start
+npm i --only=dev
+npm install --global --production windows-build-tools
+npm install -g node-gyp
+clear
+npm i
+npm start
+ls
+npm install --save-dev @angular-devkit/build-angular --force
+npm start
+npm install -g npm@latest
+npm install -g @angular/cli
+npm start

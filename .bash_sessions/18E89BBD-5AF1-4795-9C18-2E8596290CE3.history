@@ -1,0 +1,134 @@
+clear
+clear
+sudo apt-get upgrade
+clear
+sudo apt-get --upgrade
+cler
+clear
+sudo apt-get update
+clear
+sudo apt-get --update
+clear
+cls
+clear
+clear
+node --version
+clear
+node --version
+npm --version
+clear
+clear
+npm install -g @angular/cli
+npm install -g @angular/cli
+cls
+clear
+npm i -g @angular/cli
+npm cache clean --force
+clear
+npm uninstall -g @angular/cli
+clear
+npm cache clean --force
+clear
+npm install -g @angular/cli@latest
+clear
+npm cache clean --force
+clear
+npm i @angular/cli
+clear
+cd Desktop/prueba
+cd Desktop/
+mkdir prueba
+cd prueba/
+clear
+ng --version
+clear
+ng -V
+ng --version
+ng -v
+clear
+clear
+ng --version
+clear
+cd Desktop/prueba/
+code .
+code .
+sudo code .
+clear
+clear
+clear
+cd Desktop/prueba/
+clear
+npx create-react-app login  --template typescript
+cd Documents
+ls
+cd andina2
+git clone https://epinach@bitbucket.org/provashop/andina_art.git
+git clone https://epinach@bitbucket.org/provashop/andina_art.git
+git clone https://epinach@bitbucket.org/provashop/andina_art.git
+git clone https://epinach@bitbucket.org/provashop/andina_art.git
+cd Docuemnts
+cd Documents
+ls
+cd iscmNuevo
+cd icmNuevo/
+git clone https://epinach@bitbucket.org/provashop/insurrance.git
+clear
+clear
+cd Desktop/
+mkdir Ruben
+cd Ruben/
+yarn
+npm install -g yarn
+clear
+clear
+npx create-react-app sidebarmenu --template typescript
+npx create-react-app sidebarmenu --template typescript
+clear
+npx create-react-app sidebar --template typescript
+clear
+sudo
+clear
+sudo su
+clear
+cd Desktop/Ruben/
+rm -r sidebar/
+clear
+cd Desktop/Ruben/
+ls
+rm -r sidebar/
+clear
+yarn
+clear
+cd Desktop/Ruben/
+ls
+clear
+npx create-react-app sidebar --template typescript
+cd sidebar/
+yarn add node-sass react-icons
+clear
+yarn start
+clear
+cd Desktop/Ruben/sidebar/
+code .
+code .
+code .
+clear
+code .
+cls
+clear
+cd Desktop/Ruben/
+ls
+cd sidebar/
+code .
+cd ..
+cd ..
+code .
+code
+ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
+sudo ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
+ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
+open ~/.bash_profile
+open ~/.bash_profile
+sudo chown -R $(whoami) ~/.vscode/
+code
+code

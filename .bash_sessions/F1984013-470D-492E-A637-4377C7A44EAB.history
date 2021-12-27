@@ -1,0 +1,22 @@
+clear
+clear
+sudo apt-get upgrade
+clear
+sudo apt-get --upgrade
+cler
+clear
+sudo apt-get update
+clear
+sudo apt-get --update
+clear
+cls
+clear
+clear
+node --version
+clear
+node --version
+npm --version
+clear
+clear
+npm install -g @angular/cli
+npm install -g @angular/cli

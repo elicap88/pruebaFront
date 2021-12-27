@@ -1,0 +1,11 @@
+{
+  "username": "peliana@labsxd.com.icmweb.dev",
+  "accessToken": "3a1c22d8cda5c1fff90fb9874d638086a06078a8291a85376dbc2f3ce86c0dc11c709c9236aad4f9394b72dc7a459298f5648922ea32ce6bd43f13c6b33ab2aec1db117c0275204fe58a3237b2c86d08934bbc86475b10cedc17ee33a9c8502457fe8b30ed1d3c751b4a3d2b92e30519da0242ba9d6b:f6e7eb3cf2ad0f529c42f4c7eeee649b",
+  "instanceUrl": "https://icmweb--dev.my.salesforce.com",
+  "orgId": "00D8G0000008hsEUAQ",
+  "loginUrl": "https://icmweb--dev.my.salesforce.com/",
+  "refreshToken": "078ae2c1fc9e10f5090484c4eab7cb3d73be33feed29171460e2ec76c7647a9923a5da2864939e672373a6bff230792670965045f71d4e2d83cb7fdec80c882b592dab5549a90593aaac95e1eb80347d42154fa2976fa1e47d2fd007f4:1b4a1957b1b0ce29721f0f8e2dd31a59",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "53.0",
+  "instanceApiVersionLastRetrieved": "12/13/2021, 9:20:03 AM"
+}

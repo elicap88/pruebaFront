@@ -1,0 +1,81 @@
+# npm resolution error report
+
+2021-12-14T01:49:23.588Z
+
+While resolving: fuse@7.1.0
+Found: @angular/compiler@7.2.1
+node_modules/@angular/compiler
+  @angular/compiler@"7.2.1" from the root project
+
+Could not resolve dependency:
+peer @angular/compiler@"7.2.9" from @angular/compiler-cli@7.2.9
+node_modules/@angular/compiler-cli
+  dev @angular/compiler-cli@"7.2.9" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force, or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
+
+Raw JSON explanation object:
+
+{
+  "code": "ERESOLVE",
+  "current": {
+    "name": "@angular/compiler",
+    "version": "7.2.1",
+    "whileInstalling": {
+      "name": "fuse",
+      "version": "7.1.0",
+      "path": "/Users/admin/Desktop/jetmanager/jetmanager-webadmin"
+    },
+    "location": "node_modules/@angular/compiler",
+    "isWorkspace": false,
+    "dependents": [
+      {
+        "type": "prod",
+        "name": "@angular/compiler",
+        "spec": "7.2.1",
+        "from": {
+          "location": "/Users/admin/Desktop/jetmanager/jetmanager-webadmin"
+        }
+      }
+    ]
+  },
+  "currentEdge": {
+    "type": "prod",
+    "name": "@angular/compiler",
+    "spec": "7.2.1",
+    "from": {
+      "location": "/Users/admin/Desktop/jetmanager/jetmanager-webadmin"
+    }
+  },
+  "edge": {
+    "type": "peer",
+    "name": "@angular/compiler",
+    "spec": "7.2.9",
+    "error": "INVALID",
+    "from": {
+      "name": "@angular/compiler-cli",
+      "version": "7.2.9",
+      "whileInstalling": {
+        "name": "fuse",
+        "version": "7.1.0",
+        "path": "/Users/admin/Desktop/jetmanager/jetmanager-webadmin"
+      },
+      "location": "node_modules/@angular/compiler-cli",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "dev",
+          "name": "@angular/compiler-cli",
+          "spec": "7.2.9",
+          "from": {
+            "location": "/Users/admin/Desktop/jetmanager/jetmanager-webadmin"
+          }
+        }
+      ]
+    }
+  },
+  "strictPeerDeps": false,
+  "force": false
+}

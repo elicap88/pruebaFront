@@ -1,0 +1,39 @@
+clear
+ng --version
+node --version
+npm cache clean --force
+clear
+ng new prueba
+clear
+npm cache clean --force
+sudo npm install -g n
+sudo n stable
+sudo n stable
+node --version
+clear
+cd Desktop/Ruben/menu/
+clear
+ls
+clear
+npm i
+cls
+clear
+npm --version
+clear
+node -V
+node --version
+clear
+ng --version
+clar
+clear
+npm i
+clear
+npm version
+clear
+sudo chown -R $USER /usr/local/lib/node_modules
+npm i -g npm
+npm install -g npm
+clear
+sudo chown -R $USER /usr/local/lib/node_modules
+npm install -g npm
+clear
