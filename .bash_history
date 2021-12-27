@@ -1,31 +1,3 @@
-cd Docuemnts
-cd Documents
-ls
-cd iscmNuevo
-cd icmNuevo/
-git clone https://epinach@bitbucket.org/provashop/insurrance.git
-clear
-clear
-cd Desktop/
-mkdir Ruben
-cd Ruben/
-yarn
-npm install -g yarn
-clear
-clear
-npx create-react-app sidebarmenu --template typescript
-npx create-react-app sidebarmenu --template typescript
-clear
-npx create-react-app sidebar --template typescript
-clear
-sudo
-clear
-sudo su
-clear
-cd Desktop/Ruben/
-rm -r sidebar/
-clear
-cd Desktop/Ruben/
 ls
 rm -r sidebar/
 clear
@@ -498,3 +470,31 @@ cd loteria
 cd lo
  https://github.com/elicap88/lottery.git
 sudo https://github.com/elicap88/lottery.git
+git push origin master
+git push
+git push master
+git push -u origin master
+git push -u origin main
+git pull --rebase origin main
+git checkout main
+git log
+git checkout
+git pull --rebase origin main
+git pull origin main
+git config --global -l
+git config --global  user.email “peliana@labsxd.com”elizid@gmail.com
+git config --global -l
+git pull origin main
+git pull
+git pull main
+git checkout main
+git log
+cd Desktop/
+cdlo
+cd loteria
+cd lottery-main/
+npm i
+cd Desktop/
+cd loteria
+cd lottery-main/
+npm start
