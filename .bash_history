@@ -1,136 +1,3 @@
-ls
-rm -r sidebar/
-clear
-yarn
-clear
-cd Desktop/Ruben/
-ls
-clear
-npx create-react-app sidebar --template typescript
-cd sidebar/
-yarn add node-sass react-icons
-clear
-yarn start
-clear
-cd Desktop/Ruben/sidebar/
-code .
-code .
-code .
-clear
-code .
-cls
-clear
-cd Desktop/Ruben/
-ls
-cd sidebar/
-code .
-cd ..
-cd ..
-code .
-code
-ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
-sudo ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
-ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
-open ~/.bash_profile
-open ~/.bash_profile
-sudo chown -R $(whoami) ~/.vscode/
-code
-code
-clear
-yarn start
-cls
-clear
-cd Desktop/Ruben/sidebar/
-code
-code .
-cd Desktop/Ruben/
-clear
-npx create-react-app menu --template typescript
-cd menu/
-yarn add node-sass@5.0.0 react-icons
-yarn add node-sass@5.0.0 react-icons
-yarn start
-clear
-cd Desktop/Ruben/menu/
-code .
-clear
-cd Desktop/Ruben/menu/
-code .
-yarn start
-clear
-cd Desktop/Ruben/menu/
-yarns add node-sass react-icons
-yarn add node-sass react-icons
-npm i
-npm i
-cls
-yarn start
-clear
-cd Desktop/Ruben/menu/
-ls
-clear
-npm install
-sudo npm i
-clear
-ls
-clear
-npm i
-clear
-npm --version
-clear
-npm cache clean --force
-npm uninstall
-npm uninstall npm
-npm --vesion
-clear
-npm --version
-npm install npm@latest -g
-sudo npm unistall npm
-npm --version
-clear
-ls
-clear
-npm --version
-clear
-npm unistall npm
-clear
-npm install npm@latest -g
-clear
-sudo npm install npm@latest -g
-sudo npm audit fix
-npm audti fix
-clear
-ls
-clear
-sudo npm i
-yarn start
-de Desktop/Ruben/menu/
-cd Desktop/Ruben/
-ls
-cd menu/
-clear
-npm i
-clear
-sudo npm i
-yarn start
-clear
-nvm -v
-clear
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-localhost:~ admin$ nvm -v
-clear
-nvm -v
-node -v
-nvm install node
-clear
-nvm install node
-nvm --version
-clear
-nvm -v
-clear
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 nvm -v
 nvm -v
 clear
@@ -497,4 +364,137 @@ npm i
 cd Desktop/
 cd loteria
 cd lottery-main/
+npm start
+git fetch
+git pull origin develop
+cd Desktop
+cd ITACA2
+cd front
+cd front
+npm start
+npm start
+cd src/app/features/claim/claim
+ng g c sin006-menu
+cd src/app/claim/claim
+cd src
+cd app
+cd features/claim/claim
+ng g c sin006-header
+cd src/app/features/claim/claim
+ng g c sin006-transaction
+cd src/app/features/claim/claim
+ng g c sin006-claim-data
+ng g c sin006-header-claim-data
+cd Desktop
+cd ITACA2
+cd front
+cd front
+npm start
+npm start
+cd Desktop
+npm start
+cd Desktop
+cd ITACA2
+cd front 
+cd front
+npm start
+cd Desktop
+cd ITACA2
+cd front
+cd front
+npm start
+cd Desktop
+cd ITACA2
+cd front
+cd front
+npm start
+git pull origin develop
+git pull origin develop
+cd src/app/features/claim/complaint/data-affected
+cd src/app
+cd features/claim
+cd complaint/data-affected
+cd complaint/create-complaint/data-affected
+ng g c den008-bicycle
+ng g c den008-inmmovables
+ng g c den008-movables
+git fetch
+git checkout damages
+git checkout damages
+cd Desktop
+cd ITACA2
+cd front
+cd front
+npm start
+npm start
+cd Desktop
+cd ITACA2/
+git clone https://ElianaPina@bitbucket.org/ustglobal-spain/front.git
+cd front
+cd front
+npm install
+npm start
+cd Destop
+cd Desktop
+cd ITACA2/
+cd front
+cd front
+npm start
+cd Desktop
+cd ITACA2/
+cd front
+cd front
+nmp start
+npm start
+git checkout feature/damages
+git checkout feature/damages
+git fetch
+git pull origin develop
+cd Desktop
+cd ITACA2/
+cd front
+cd frot
+cd front
+npm install --save --legacy-peer-deps
+nmp start
+npm start
+export NODE_OPTIONS="--max-old-space-size=8192"
+npm start
+cd desktop
+ls
+cd ITACA2/
+cd front
+cd front
+ng serve --configuration=old-dev
+ng serve --configuration=old-dev
+cd Desktop
+cd ITACA2/
+cd front
+cd front
+ng serve
+cd Desktop
+cd ITACA2/
+cd front
+cd front
+npm start
+cd Desktop/
+cd ITACA2/
+cd front
+cd front
+ng serve --configuration=old-dev
+cd Desktop
+cd ITACA2/
+cd front
+cd frotn
+cd front
+ng serve
+cd Desktop
+cd ITACA2/
+cd front
+cd front
+npm start
+cd Desktop
+cd ITACA2/
+cd front
+cd front
 npm start
